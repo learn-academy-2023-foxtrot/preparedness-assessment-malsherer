@@ -1,0 +1,39 @@
+.body {
+    background-image: url("./assets/background-image.jpeg");
+    height: 900px;
+}
+
+.header {
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.label {
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.input-field {
+    font-size: 18px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 6px 12px 6px 12px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.button1 {
+    background-color: #0dcaf0;
+    color: white;
+    width: 100px;
+    padding: 10px;
+}
